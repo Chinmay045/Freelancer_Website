@@ -1,0 +1,12 @@
+:root {
+    --white:#ffffff;
+    --primary:#FFC107;
+    --secondary: #0097A7;
+    --gray : #757575;
+    --dark: #212121;
+    --mainFont : 'Krub' ,sans-serif;
+}
+
+body{
+    font-family: var(--mainFont);
+}
