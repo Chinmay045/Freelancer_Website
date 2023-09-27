@@ -139,3 +139,18 @@ h3{
 p{
   line-height: 2;
 }
+
+.icons{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  display: flex;
+  margin-left: 8rem;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--primary);
+}
+
+.icons i{
+  font-size: 2rem;
+}
